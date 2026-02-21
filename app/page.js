@@ -290,7 +290,7 @@ export default function Home() {
           </p>
           <div className="contact-actions">
             <a className="btn btn-primary" href="mailto:samohany@ucdavis.edu">samohany@ucdavis.edu</a>
-            <a className="btn btn-ghost" href="tel:+12063917546">+1 (206) 391-7546</a>
+            <a className="btn btn-ghost" href="tel:+12063917546">+1-(206) 391-7546</a>
             <a
               className="btn btn-secondary"
               href="https://github.com/sauravmohanty02"
