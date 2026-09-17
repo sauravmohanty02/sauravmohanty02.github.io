@@ -16,7 +16,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 export const metadata = {
   title: "Saurav Mohanty | Portfolio",
   description:
-    "Software engineer portfolio featuring experience in CI/CD automation, APIs, and machine learning.",
+    "Software engineer portfolio featuring full-stack services, platform and DevSecOps infrastructure, and LLM systems.",
   metadataBase: new URL(siteUrl),
 };
 
